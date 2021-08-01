@@ -12,4 +12,4 @@ This is a mini project written in C++ based on contact management system . This 
 
 *Update function to update the details of the existing contact in the list
 
-The program is implemented in C++ using various concepts like menu-driven program ( switch case ) , dynamic pointer arrays for storinh name and contact number and the concept of classes and object .
+The program is implemented in C++ using various concepts like menu-driven program ( switch case ) , dynamic pointer arrays for storing name and contact number and the concept of classes and object .
